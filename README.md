@@ -1,4 +1,4 @@
-phpunit-handbook
+PHPUnit Handbook
 ================
 
-PHPUnit
+I don't like official documentation for <a href="http://phpunit.de/manual/4.1/en/index.html">PHPUnit</a>. So I decided to create handbook for PHPUnit for quick resolving problems.
